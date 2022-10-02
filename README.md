@@ -26,9 +26,13 @@
 
 
 
-<h2>📊Git Stats📊</h2>
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=Matik541&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="matik541" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matik541&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="matik541" />
-</p>
+<details>
+  <summary>
+    <h2>📊Git Stats📊</h2>
+  </summary>
+  <p>
+    <img align="center" src="https://streak-stats.demolab.com?user=Matik541&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="matik541" />
+    <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matik541&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="matik541" />
+  </p>
+</details>
