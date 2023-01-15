@@ -22,7 +22,7 @@
 </p>
 
 <h2 align="left">🛠Languages and Tools🛠</h2>
-<p align="left"> Android | Angular | C++ | CSS + HTML | Figma | Git | Java | JavaScript | MySQL | NodeJS | PHP | React | TypeScript </p>
+<p align="left"> Android | Angular | C++ | CSS + HTML | Figma | Git | Java | JavaScript | MySQL | NodeJS | PHP | TypeScript </p>
 
 
 
