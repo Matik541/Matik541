@@ -16,7 +16,6 @@
 <p align="left">
   <a href="https://discord.com/users/497072910670757949">
     <img src="https://dcbadge.vercel.app/api/shield/497072910670757949" alt="Matik#3124" /></a>
-  <br>
   <a href="https://stackoverflow.com/users/20064578/matik">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="stackoverflow/20064578"/></a>
 </p>
